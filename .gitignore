@@ -1,0 +1,23 @@
+# Ignore Python cache files
+__pycache__/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data folders or hidden data files
+data/
+*.data
+
+# Ignore notebook file (if you want)
+ingestion_db.ipynb
+
+# Ignore log files
+*.log
+ingestion_db.log
+
+# Ignore text data files
+ingestion.txt
+
+# Ignore database or inventory files
+inventory.db
+vendors_data.csv
