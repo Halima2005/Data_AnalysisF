@@ -57,8 +57,6 @@ vendor-performance-analysis/
 │
 ├── README.md
 ├── .gitignore
-├── requirements.txt
-├── Vendor Performance Report.pdf
 │
 ├── notebooks/                  # Jupyter notebooks
 │   ├── exploratory_data_analysis.ipynb

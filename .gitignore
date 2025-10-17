@@ -12,7 +12,7 @@ data/
 ingestion_db.ipynb
 
 # Ignore log files
-*.log
+*.logs
 ingestion_db.log
 
 # Ignore text data files
