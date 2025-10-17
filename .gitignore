@@ -14,8 +14,9 @@ ingestion_db.ipynb
 # Ignore log files
 *.logs
 ingestion_db.log
-Vendor Performance Analysis.ipynb
 ingestion_db.py
+logs/
+
 
 
 # Ignore text data files
